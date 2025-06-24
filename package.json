@@ -1,0 +1,12 @@
+{
+    "name": "com.rtwarner.ditherdown-urp",
+    "version": "1.0.0",
+    "displayName": "DitherDown URP",
+    "description": "A dithering and quantization post processing effect for URP",
+    "unity": "6000.0",
+    "author": {
+        "name": "RTWarner",
+        "email": "rtwarner@gmail.com",
+        "url": "https://rtwarner.itch.io"
+    }
+}
