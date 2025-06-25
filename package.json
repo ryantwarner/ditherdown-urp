@@ -8,5 +8,8 @@
         "name": "RTWarner",
         "email": "rtwarner@gmail.com",
         "url": "https://rtwarner.itch.io"
+    },
+    "dependencies": {
+        "com.unity.render-pipelines.universal": "17.0.0"
     }
 }
