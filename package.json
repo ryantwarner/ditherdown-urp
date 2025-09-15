@@ -1,15 +1,15 @@
 {
-    "name": "com.rtwarner.ditherdown-urp",
-    "version": "1.0.0",
-    "displayName": "DitherDown URP",
-    "description": "A dithering and quantization post processing effect for URP",
-    "unity": "6000.0",
-    "author": {
-        "name": "RTWarner",
-        "email": "rtwarner@gmail.com",
-        "url": "https://rtwarner.itch.io"
-    },
-    "dependencies": {
-        "com.unity.render-pipelines.universal": "17.0.0"
-    }
+  "name": "com.rtwarner.ditherdown-urp",
+  "version": "1.0.1",
+  "displayName": "DitherDown URP",
+  "description": "A dithering and quantization post processing effect for URP",
+  "unity": "6000.0",
+  "author": {
+    "name": "RTWarner",
+    "url": "https://rtwarner.itch.io",
+    "email": "rtwarner@gmail.com"
+  },
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "17.0.0"
+  }
 }
